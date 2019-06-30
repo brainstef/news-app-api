@@ -1,0 +1,33 @@
+{
+  "name": "news-app-api",
+  "version": "0.0.1",
+  "description": "API for news application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brainstef/news-app-api.git"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "js",
+    "nodejs",
+    "server",
+    "backend",
+    "express",
+    "mongo"
+  ],
+  "author": "Zupco Stefan <zupco.stefan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brainstef/news-app-api/issues"
+  },
+  "homepage": "https://github.com/brainstef/news-app-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
